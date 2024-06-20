@@ -1,0 +1,12 @@
+event 			:	type d'épreuve
+athlete 		:	prenom / nom de l'athlète
+athlete_country	:	pays représenté par l'athlète
+og_country	 	:	pays ou s'est déroulé l'épreuve
+og_city			:	ville ou s'est déroulée l'épreuve
+year 			:	année de l'épreuve
+month 			:	mois de l'épreuve
+day 			:	jour de l'épreuve
+performance 	:	résultat temps en h:m:s / m:s / s, distances en mètres
+medal 			:	1 pour médaille d'or, 2 pour médaille d'argent, 3 pour médaille de bronze (et si deux médal identique c'est un exaeqo)
+WR				:	0 pour record mondial non battu, 1 pour record mondial battu
+OR 				:	0 pour record olympique non batty, 1 pour record olympique battu

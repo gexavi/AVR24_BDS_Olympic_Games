@@ -1,0 +1,4030 @@
+{
+  "data": {
+    "getCalendarCompetitionResults": {
+      "competition": {
+        "dateRange": "29 AUG\u201306 SEP 1987",
+        "endDate": "1987-09-06",
+        "name": "IAAF World Championships",
+        "rankingCategory": "OW",
+        "startDate": "1987-08-29",
+        "venue": "Stadio Olimpico, Roma (ITA)",
+        "__typename": "CalendarResultsCompetition"
+      },
+      "eventTitles": [
+        {
+          "rankingCategory": "OW",
+          "eventTitle": null,
+          "events": [
+            {
+              "event": "Men's 400 Metres",
+              "eventId": 10229631,
+              "gender": "M",
+              "isRelay": false,
+              "perResultWind": false,
+              "withWind": false,
+              "summary": null,
+              "races": [
+                {
+                  "date": "1987-09-03",
+                  "day": 6,
+                  "race": "Final",
+                  "raceId": 10,
+                  "raceNumber": 0,
+                  "results": [
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "0add5ijpa9jgvcv3wdpqm5",
+                        "name": "Thomas SCH\u00d6NLEBE",
+                        "iaafId": 4134,
+                        "urlSlug": "germany/thomas-schonlebe-014194143",
+                        "birthDate": "06 AUG 1965",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "44.33",
+                      "nationality": "GDR",
+                      "place": "1.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "tr4e3nhgt3pe5gl4gk6zl",
+                        "name": "Innocent EGBUNIKE",
+                        "iaafId": 776,
+                        "urlSlug": "nigeria/innocent-egbunike-014357836",
+                        "birthDate": "30 NOV 1961",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "44.56",
+                      "nationality": "NGR",
+                      "place": "2.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "yi88wz1eilv0m4pkq698b",
+                        "name": "Butch REYNOLDS",
+                        "iaafId": 2400,
+                        "urlSlug": "united-states/butch-reynolds-014249424",
+                        "birthDate": "08 JUN 1964",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "44.80",
+                      "nationality": "USA",
+                      "place": "3.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "kkyn15n5gnckntvxxyad7",
+                        "name": "Roberto HERN\u00c1NDEZ",
+                        "iaafId": 1148,
+                        "urlSlug": "cuba/roberto-hernandez-014357557",
+                        "birthDate": "06 MAR 1967",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "44.99",
+                      "nationality": "CUB",
+                      "place": "4.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "vybg30ikiqdqiw97c8x0z",
+                        "name": "Derek REDMOND",
+                        "iaafId": 2375,
+                        "urlSlug": "great-britain-ni/derek-redmond-014351433",
+                        "birthDate": "03 SEP 1965",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.06",
+                      "nationality": "GBR",
+                      "place": "5.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "5vlizopyifazspd7xota9j",
+                        "name": "David KITUR",
+                        "iaafId": 1429,
+                        "urlSlug": "kenya/david-kitur-014346397",
+                        "birthDate": "12 OCT 1962",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.34",
+                      "nationality": "KEN",
+                      "place": "6.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "64txzrrda7i41ziy86ipob",
+                        "name": "Gabriel TIACOH",
+                        "iaafId": 8737,
+                        "urlSlug": "cote-divoire/gabriel-tiacoh-014344020",
+                        "birthDate": "10 SEP 1963",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "46.27",
+                      "nationality": "CIV",
+                      "place": "7.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "7q7qocazq1p2f2cpmttec3",
+                        "name": "Roddie HALEY",
+                        "iaafId": 20817,
+                        "urlSlug": "united-states/roddie-haley-014347975",
+                        "birthDate": "06 DEC 1965",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "46.77",
+                      "nationality": "USA",
+                      "place": "8.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    }
+                  ],
+                  "startList": null,
+                  "wind": null,
+                  "__typename": "CalendarResultsRace"
+                },
+                {
+                  "date": "1987-09-01",
+                  "day": 4,
+                  "race": "Semifinal - Heat",
+                  "raceId": 13,
+                  "raceNumber": 1,
+                  "results": [
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "c0iobbmzfeqsxdpx9m9rzb",
+                        "name": "Innocent EGBUNIKE",
+                        "iaafId": 776,
+                        "urlSlug": "nigeria/innocent-egbunike-014357836",
+                        "birthDate": "30 NOV 1961",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "44.26",
+                      "nationality": "NGR",
+                      "place": "1.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "hk9irzclhlgdwh1x6ry5s7",
+                        "name": "Thomas SCH\u00d6NLEBE",
+                        "iaafId": 4134,
+                        "urlSlug": "germany/thomas-schonlebe-014194143",
+                        "birthDate": "06 AUG 1965",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "44.60",
+                      "nationality": "GDR",
+                      "place": "2.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "0m843w2m3wjv1nxv9fu8z",
+                        "name": "Roberto HERN\u00c1NDEZ",
+                        "iaafId": 1148,
+                        "urlSlug": "cuba/roberto-hernandez-014357557",
+                        "birthDate": "06 MAR 1967",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "44.83",
+                      "nationality": "CUB",
+                      "place": "3.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "5lxkdb63vffdnsa6dtzou",
+                        "name": "Roddie HALEY",
+                        "iaafId": 20817,
+                        "urlSlug": "united-states/roddie-haley-014347975",
+                        "birthDate": "06 DEC 1965",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.21",
+                      "nationality": "USA",
+                      "place": "4.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "u0emrxxh0isyglhmxriyi",
+                        "name": "Marcel ARNOLD",
+                        "iaafId": 5323,
+                        "urlSlug": "switzerland/marcel-arnold-014343564",
+                        "birthDate": "17 JAN 1962",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.26",
+                      "nationality": "SUI",
+                      "place": "5.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "7f7g0nte076x44y71g5wnj",
+                        "name": "Anton SKERRITT",
+                        "iaafId": 2684,
+                        "urlSlug": "canada/anton-skerritt-014344182",
+                        "birthDate": "03 JAN 1964",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.62",
+                      "nationality": "CAN",
+                      "place": "6.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "9blhvicgypsrlxuxgkezb",
+                        "name": "Mathias SCHERSING",
+                        "iaafId": 9768,
+                        "urlSlug": "german-dem-rep/mathias-schersing-014346531",
+                        "birthDate": "07 OCT 1964",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.67",
+                      "nationality": "GDR",
+                      "place": "7.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "fwi6uht0nxa174vsl1h39r",
+                        "name": "Aleksandr KUROCHKIN",
+                        "iaafId": 8076,
+                        "urlSlug": "ussr/aleksandr-kurochkin-014355722",
+                        "birthDate": "23 JUL 1961",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.73",
+                      "nationality": "URS",
+                      "place": "8.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "1z0bw0uxoqgi4c80692x3hp",
+                        "name": "Devon MORRIS",
+                        "iaafId": 1952,
+                        "urlSlug": "jamaica/devon-morris-014350497",
+                        "birthDate": "22 JAN 1961",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.76",
+                      "nationality": "JAM",
+                      "place": "9.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    }
+                  ],
+                  "startList": null,
+                  "wind": null,
+                  "__typename": "CalendarResultsRace"
+                },
+                {
+                  "date": "1987-09-01",
+                  "day": 4,
+                  "race": "Semifinal - Heat",
+                  "raceId": 13,
+                  "raceNumber": 2,
+                  "results": [
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "vdymgjpu53cp5mcnth7xoc",
+                        "name": "Derek REDMOND",
+                        "iaafId": 2375,
+                        "urlSlug": "great-britain-ni/derek-redmond-014351433",
+                        "birthDate": "03 SEP 1965",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "44.50",
+                      "nationality": "GBR",
+                      "place": "1.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "s92it4tkldkheu2w3owz",
+                        "name": "Gabriel TIACOH",
+                        "iaafId": 8737,
+                        "urlSlug": "cote-divoire/gabriel-tiacoh-014344020",
+                        "birthDate": "10 SEP 1963",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "44.69",
+                      "nationality": "CIV",
+                      "place": "2.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "cvo5k9y2x19j1kpiowrxda",
+                        "name": "David KITUR",
+                        "iaafId": 1429,
+                        "urlSlug": "kenya/david-kitur-014346397",
+                        "birthDate": "12 OCT 1962",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "44.73",
+                      "nationality": "KEN",
+                      "place": "3.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "cr1onh42b6uskijtsz7ns",
+                        "name": "Butch REYNOLDS",
+                        "iaafId": 2400,
+                        "urlSlug": "united-states/butch-reynolds-014249424",
+                        "birthDate": "08 JUN 1964",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "44.94",
+                      "nationality": "USA",
+                      "place": "4.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "w75svc9ncuhvcv2rgxg6c",
+                        "name": "Jens CARLOWITZ",
+                        "iaafId": 437,
+                        "urlSlug": "germany/jens-carlowitz-014191758",
+                        "birthDate": "08 AUG 1964",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "44.97",
+                      "nationality": "GDR",
+                      "place": "5.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "55gd8f00c6nja7mba73dp",
+                        "name": "Bert CAMERON",
+                        "iaafId": 409,
+                        "urlSlug": "jamaica/bert-cameron-014343445",
+                        "birthDate": "16 NOV 1959",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.19",
+                      "nationality": "JAM",
+                      "place": "6.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "5d1oho7e7hdf44zxpybb89",
+                        "name": "Moses UGBISIE",
+                        "iaafId": 136541,
+                        "urlSlug": "nigeria/moses-ugbisie-014347742",
+                        "birthDate": "11 DEC 1964",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.72",
+                      "nationality": "NGR",
+                      "place": "7.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "r0oupwodx8nnn9nxc45ln",
+                        "name": "Darren CLARK",
+                        "iaafId": 510,
+                        "urlSlug": "australia/darren-clark-014179942",
+                        "birthDate": "06 SEP 1965",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.93",
+                      "nationality": "AUS",
+                      "place": "8.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    }
+                  ],
+                  "startList": null,
+                  "wind": null,
+                  "__typename": "CalendarResultsRace"
+                },
+                {
+                  "date": "1987-08-31",
+                  "day": 3,
+                  "race": "Quarterfinal - Heat",
+                  "raceId": 12,
+                  "raceNumber": 1,
+                  "results": [
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "oqtmwbkah29c78ae9l5sw",
+                        "name": "Derek REDMOND",
+                        "iaafId": 2375,
+                        "urlSlug": "great-britain-ni/derek-redmond-014351433",
+                        "birthDate": "03 SEP 1965",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.03",
+                      "nationality": "GBR",
+                      "place": "1.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "sqehfwfbpajz2qtolzqe8",
+                        "name": "Roberto HERN\u00c1NDEZ",
+                        "iaafId": 1148,
+                        "urlSlug": "cuba/roberto-hernandez-014357557",
+                        "birthDate": "06 MAR 1967",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.33",
+                      "nationality": "CUB",
+                      "place": "2.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "56hmesoirdufb4f4p0o449",
+                        "name": "Mathias SCHERSING",
+                        "iaafId": 9768,
+                        "urlSlug": "german-dem-rep/mathias-schersing-014346531",
+                        "birthDate": "07 OCT 1964",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.50",
+                      "nationality": "GDR",
+                      "place": "3.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "alfyda50nrdeiml6u74sk6",
+                        "name": "Darren CLARK",
+                        "iaafId": 510,
+                        "urlSlug": "australia/darren-clark-014179942",
+                        "birthDate": "06 SEP 1965",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.58",
+                      "nationality": "AUS",
+                      "place": "4.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "j4vg9vztosyjgg7thlajs",
+                        "name": "H\u00e9ctor DALEY",
+                        "iaafId": 5639,
+                        "urlSlug": "panama/hector-daley-014345030",
+                        "birthDate": "22 NOV 1961",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "46.05",
+                      "nationality": "PAN",
+                      "place": "5.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "jnmx5xxpr7tlyww5u6lml",
+                        "name": "Antonio S\u00c1NCHEZ",
+                        "iaafId": 2530,
+                        "urlSlug": "spain/antonio-sanchez-014357656",
+                        "birthDate": "22 SEP 1963",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "46.19",
+                      "nationality": "ESP",
+                      "place": "6.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "qc0txfti5v99jl82fgj5g7",
+                        "name": "John ANZRAH",
+                        "iaafId": 136533,
+                        "urlSlug": "kenya/john-anzrah-014350995",
+                        "birthDate": "27 OCT 1954",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "46.45",
+                      "nationality": "KEN",
+                      "place": "7.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "ioa86zai8t9ud0siiu9t1d",
+                        "name": "Alemayehu GUDETA",
+                        "iaafId": 136465,
+                        "urlSlug": "ethiopia/alemayehu-gudeta-014384727",
+                        "birthDate": "1960",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "DNS",
+                      "nationality": "ETH",
+                      "place": "",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    }
+                  ],
+                  "startList": null,
+                  "wind": null,
+                  "__typename": "CalendarResultsRace"
+                },
+                {
+                  "date": "1987-08-31",
+                  "day": 3,
+                  "race": "Quarterfinal - Heat",
+                  "raceId": 12,
+                  "raceNumber": 2,
+                  "results": [
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "y3drfbk90u9knf50snyq3p",
+                        "name": "Thomas SCH\u00d6NLEBE",
+                        "iaafId": 4134,
+                        "urlSlug": "germany/thomas-schonlebe-014194143",
+                        "birthDate": "06 AUG 1965",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "44.81",
+                      "nationality": "GDR",
+                      "place": "1.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "z1wkokdjm1nmqtie5b42b",
+                        "name": "David KITUR",
+                        "iaafId": 1429,
+                        "urlSlug": "kenya/david-kitur-014346397",
+                        "birthDate": "12 OCT 1962",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "44.94",
+                      "nationality": "KEN",
+                      "place": "2.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "y77pmlj6gzex7jaw4bsnph",
+                        "name": "Roddie HALEY",
+                        "iaafId": 20817,
+                        "urlSlug": "united-states/roddie-haley-014347975",
+                        "birthDate": "06 DEC 1965",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.14",
+                      "nationality": "USA",
+                      "place": "3.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "13yomv7vcjhgprdbzdf5nq",
+                        "name": "Bert CAMERON",
+                        "iaafId": 409,
+                        "urlSlug": "jamaica/bert-cameron-014343445",
+                        "birthDate": "16 NOV 1959",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.14",
+                      "nationality": "JAM",
+                      "place": "4.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "xmtwtuvwpza02jd1286af2i",
+                        "name": "Susumu TAKANO",
+                        "iaafId": 2828,
+                        "urlSlug": "japan/susumu-takano-014346681",
+                        "birthDate": "21 MAY 1961",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.81",
+                      "nationality": "JPN",
+                      "place": "5.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "zo70rawv6peerwmo5qqb8",
+                        "name": "Mohamed AL MALKY",
+                        "iaafId": 39,
+                        "urlSlug": "oman/mohamed-al-malky-014354963",
+                        "birthDate": "01 DEC 1962",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.94",
+                      "nationality": "OMA",
+                      "place": "6.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "wc7lnq50c754twwih4ap",
+                        "name": "Vladimir PROSIN",
+                        "iaafId": 4300,
+                        "urlSlug": "ussr/vladimir-prosin-014349017",
+                        "birthDate": "15 AUG 1959",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.94",
+                      "nationality": "URS",
+                      "place": "7.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "zfyo5qqjirwcolwe98pvt",
+                        "name": "\u013dubo\u0161 BALO\u0160\u00c1K",
+                        "iaafId": 5376,
+                        "urlSlug": "czechoslovakia/lubos-balosak-14352197",
+                        "birthDate": "05 APR 1965",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "46.76",
+                      "nationality": "TCH",
+                      "place": "8.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    }
+                  ],
+                  "startList": null,
+                  "wind": null,
+                  "__typename": "CalendarResultsRace"
+                },
+                {
+                  "date": "1987-08-31",
+                  "day": 3,
+                  "race": "Quarterfinal - Heat",
+                  "raceId": 12,
+                  "raceNumber": 3,
+                  "results": [
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "lyrcdp6qcdb174hbqd8pd4",
+                        "name": "Innocent EGBUNIKE",
+                        "iaafId": 776,
+                        "urlSlug": "nigeria/innocent-egbunike-014357836",
+                        "birthDate": "30 NOV 1961",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.46",
+                      "nationality": "NGR",
+                      "place": "1.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "gfej8w1qjijdbtslrnn4bm",
+                        "name": "Devon MORRIS",
+                        "iaafId": 1952,
+                        "urlSlug": "jamaica/devon-morris-014350497",
+                        "birthDate": "22 JAN 1961",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.49",
+                      "nationality": "JAM",
+                      "place": "2.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "wa9uouyf0vb5lc6tosgv58",
+                        "name": "Butch REYNOLDS",
+                        "iaafId": 2400,
+                        "urlSlug": "united-states/butch-reynolds-014249424",
+                        "birthDate": "08 JUN 1964",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.49",
+                      "nationality": "USA",
+                      "place": "3.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "lo8mrmveu52srcmav2ype",
+                        "name": "Anton SKERRITT",
+                        "iaafId": 2684,
+                        "urlSlug": "canada/anton-skerritt-014344182",
+                        "birthDate": "03 JAN 1964",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.65",
+                      "nationality": "CAN",
+                      "place": "4.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "a1mdr5d1il9x4lp7l0aoxs",
+                        "name": "Aleksandr KUROCHKIN",
+                        "iaafId": 8076,
+                        "urlSlug": "ussr/aleksandr-kurochkin-014355722",
+                        "birthDate": "23 JUL 1961",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.76",
+                      "nationality": "URS",
+                      "place": "5.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "2keb7j0o7eosz0sgi4hyrk",
+                        "name": "Tito SAWE",
+                        "iaafId": 138666,
+                        "urlSlug": "kenya/tito-sawe-014348550",
+                        "birthDate": "10 JUL 1960",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.93",
+                      "nationality": "KEN",
+                      "place": "6.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "adx8hof9ccguswisdcnzli",
+                        "name": "Gerson DE SOUZA",
+                        "iaafId": 2719,
+                        "urlSlug": "brazil/gerson-de-souza-014352827",
+                        "birthDate": "02 JAN 1959",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "46.46",
+                      "nationality": "BRA",
+                      "place": "7.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "n0uhzkm21ks71o8nr6l9hw",
+                        "name": "Ismail MA\u010cEV",
+                        "iaafId": 1681,
+                        "urlSlug": "yugoslavia/ismail-macev-14351276",
+                        "birthDate": "03 JAN 1960",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "46.54",
+                      "nationality": "YUG",
+                      "place": "8.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    }
+                  ],
+                  "startList": null,
+                  "wind": null,
+                  "__typename": "CalendarResultsRace"
+                },
+                {
+                  "date": "1987-08-31",
+                  "day": 3,
+                  "race": "Quarterfinal - Heat",
+                  "raceId": 12,
+                  "raceNumber": 4,
+                  "results": [
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "65e3ykiygehhenp9s4gh7",
+                        "name": "Jens CARLOWITZ",
+                        "iaafId": 437,
+                        "urlSlug": "germany/jens-carlowitz-014191758",
+                        "birthDate": "08 AUG 1964",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.27",
+                      "nationality": "GDR",
+                      "place": "1.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "ghw0xkd083vasf6f61c609",
+                        "name": "Moses UGBISIE",
+                        "iaafId": 136541,
+                        "urlSlug": "nigeria/moses-ugbisie-014347742",
+                        "birthDate": "11 DEC 1964",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.30",
+                      "nationality": "NGR",
+                      "place": "2.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "0jmnjdb6qk083c6tghj684r",
+                        "name": "Gabriel TIACOH",
+                        "iaafId": 8737,
+                        "urlSlug": "cote-divoire/gabriel-tiacoh-014344020",
+                        "birthDate": "10 SEP 1963",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.33",
+                      "nationality": "CIV",
+                      "place": "3.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "6hlnd4lud7gnbjkpgceh5g",
+                        "name": "Marcel ARNOLD",
+                        "iaafId": 5323,
+                        "urlSlug": "switzerland/marcel-arnold-014343564",
+                        "birthDate": "17 JAN 1962",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.76",
+                      "nationality": "SUI",
+                      "place": "4.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "cl9dwpfox3eoevtcpskpvr",
+                        "name": "Antonio MCKAY",
+                        "iaafId": 1823,
+                        "urlSlug": "united-states/antonio-mckay-014349478",
+                        "birthDate": "09 FEB 1964",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.85",
+                      "nationality": "USA",
+                      "place": "5.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "443n9kwwi7mkwdut6nb9ja",
+                        "name": "Elvis FORDE",
+                        "iaafId": 5828,
+                        "urlSlug": "barbados/elvis-forde-014177876",
+                        "birthDate": "18 NOV 1959",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.92",
+                      "nationality": "BAR",
+                      "place": "6.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "j74nuepryx91ib67d80am3",
+                        "name": "Phil BROWN",
+                        "iaafId": 136626,
+                        "urlSlug": "great-britain-ni/phil-brown-014352167",
+                        "birthDate": "06 JAN 1962",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "46.49",
+                      "nationality": "GBR",
+                      "place": "7.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "2hciimdju0qi0p9chlt01",
+                        "name": "Roberto RIBAUD",
+                        "iaafId": 2404,
+                        "urlSlug": "italy/roberto-ribaud-014357598",
+                        "birthDate": "30 JUN 1961",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "46.68",
+                      "nationality": "ITA",
+                      "place": "8.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    }
+                  ],
+                  "startList": null,
+                  "wind": null,
+                  "__typename": "CalendarResultsRace"
+                },
+                {
+                  "date": "1987-08-30",
+                  "day": 2,
+                  "race": "Round 1 - Heat",
+                  "raceId": 11,
+                  "raceNumber": 1,
+                  "results": [
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "xtj9dq61j69az2yjv6yo8l",
+                        "name": "Butch REYNOLDS",
+                        "iaafId": 2400,
+                        "urlSlug": "united-states/butch-reynolds-014249424",
+                        "birthDate": "08 JUN 1964",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.51",
+                      "nationality": "USA",
+                      "place": "1.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "8l2tw3plgfd1wvzlfiiovu",
+                        "name": "Susumu TAKANO",
+                        "iaafId": 2828,
+                        "urlSlug": "japan/susumu-takano-014346681",
+                        "birthDate": "21 MAY 1961",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.68",
+                      "nationality": "JPN",
+                      "place": "2.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "2d8a0ao76p9d5shls0h5qu",
+                        "name": "Mathias SCHERSING",
+                        "iaafId": 9768,
+                        "urlSlug": "german-dem-rep/mathias-schersing-014346531",
+                        "birthDate": "07 OCT 1964",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.86",
+                      "nationality": "GDR",
+                      "place": "3.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "2ttl3szhbmntisl19o4m88",
+                        "name": "Anton SKERRITT",
+                        "iaafId": 2684,
+                        "urlSlug": "canada/anton-skerritt-014344182",
+                        "birthDate": "03 JAN 1964",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "46.15",
+                      "nationality": "CAN",
+                      "place": "4.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "6n2e8ez73g4d2wpgv0dx3g",
+                        "name": "Mohamed AL MALKY",
+                        "iaafId": 39,
+                        "urlSlug": "oman/mohamed-al-malky-014354963",
+                        "birthDate": "01 DEC 1962",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "46.23",
+                      "nationality": "OMA",
+                      "place": "5.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "c7ofx4cutgr2e92apq4co3",
+                        "name": "Bruce PHILLIP",
+                        "iaafId": 6845,
+                        "urlSlug": "commonwealth-of-dominica/bruce-phillip-014355871",
+                        "birthDate": "25 DEC 1966",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "46.56",
+                      "nationality": "DMA",
+                      "place": "6.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "4miavcds72jj9cz8z89oph",
+                        "name": "F\u00e9lix STEVENS",
+                        "iaafId": 2760,
+                        "urlSlug": "cuba/felix-stevens-014346695",
+                        "birthDate": "08 MAR 1964",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "46.89",
+                      "nationality": "CUB",
+                      "place": "7.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "aepaouhpijgl0da2oa131k",
+                        "name": "Hossain MILZER",
+                        "iaafId": 6033,
+                        "urlSlug": "bangladesh/hossain-milzer-014344676",
+                        "birthDate": "11 FEB 1967",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "DNS",
+                      "nationality": "BAN",
+                      "place": "",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    }
+                  ],
+                  "startList": null,
+                  "wind": null,
+                  "__typename": "CalendarResultsRace"
+                },
+                {
+                  "date": "1987-08-30",
+                  "day": 2,
+                  "race": "Round 1 - Heat",
+                  "raceId": 11,
+                  "raceNumber": 2,
+                  "results": [
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "go3lps28s6m3tpkv3328",
+                        "name": "David KITUR",
+                        "iaafId": 1429,
+                        "urlSlug": "kenya/david-kitur-014346397",
+                        "birthDate": "12 OCT 1962",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.39",
+                      "nationality": "KEN",
+                      "place": "1.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "i5rbp91c9ifqh5armsjvss",
+                        "name": "Innocent EGBUNIKE",
+                        "iaafId": 776,
+                        "urlSlug": "nigeria/innocent-egbunike-014357836",
+                        "birthDate": "30 NOV 1961",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.84",
+                      "nationality": "NGR",
+                      "place": "2.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "539oibvmiw8bhc75a91x35",
+                        "name": "Elvis FORDE",
+                        "iaafId": 5828,
+                        "urlSlug": "barbados/elvis-forde-014177876",
+                        "birthDate": "18 NOV 1959",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.99",
+                      "nationality": "BAR",
+                      "place": "3.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "5ysmg3ezzzr0jmrshko149k",
+                        "name": "H\u00e9ctor DALEY",
+                        "iaafId": 5639,
+                        "urlSlug": "panama/hector-daley-014345030",
+                        "birthDate": "22 NOV 1961",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "46.26",
+                      "nationality": "PAN",
+                      "place": "4.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "rye92bfc6f9v7feysa2hq",
+                        "name": "Todd BENNETT",
+                        "iaafId": 233,
+                        "urlSlug": "great-britain-ni/todd-bennett-014350629",
+                        "birthDate": "06 JUL 1962",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "46.58",
+                      "nationality": "GBR",
+                      "place": "5.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "wkzaz5jo49dvzwbuqpbe",
+                        "name": "Lyndon GEORGE",
+                        "iaafId": 138661,
+                        "urlSlug": "canada/lyndon-george-014174232",
+                        "birthDate": "1965",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "47.25",
+                      "nationality": "LCA",
+                      "place": "6.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "f0w7mmied5v1oeia0u1n",
+                        "name": "Ian MORRIS",
+                        "iaafId": 1953,
+                        "urlSlug": "trinidad-and-tobago/ian-morris-014229056",
+                        "birthDate": "30 NOV 1961",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "48.06",
+                      "nationality": "TTO",
+                      "place": "7.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "p07no7lx9yyyyldj6ym4",
+                        "name": "Bienvenu YAGBONGO",
+                        "iaafId": 138662,
+                        "urlSlug": "central-african-republic/bienvenu-yagbongo-014560147",
+                        "birthDate": "1959",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "50.14",
+                      "nationality": "CAF",
+                      "place": "8.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    }
+                  ],
+                  "startList": null,
+                  "wind": null,
+                  "__typename": "CalendarResultsRace"
+                },
+                {
+                  "date": "1987-08-30",
+                  "day": 2,
+                  "race": "Round 1 - Heat",
+                  "raceId": 11,
+                  "raceNumber": 3,
+                  "results": [
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "o6h6s12gbpczi6dhfzkzc",
+                        "name": "Gabriel TIACOH",
+                        "iaafId": 8737,
+                        "urlSlug": "cote-divoire/gabriel-tiacoh-014344020",
+                        "birthDate": "10 SEP 1963",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.65",
+                      "nationality": "CIV",
+                      "place": "1.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "hcupeeuneq52gjjjjvt1ya",
+                        "name": "Darren CLARK",
+                        "iaafId": 510,
+                        "urlSlug": "australia/darren-clark-014179942",
+                        "birthDate": "06 SEP 1965",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.70",
+                      "nationality": "AUS",
+                      "place": "2.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "vsm0f0txnxb0aybzzt6t7ol",
+                        "name": "Aleksandr KUROCHKIN",
+                        "iaafId": 8076,
+                        "urlSlug": "ussr/aleksandr-kurochkin-014355722",
+                        "birthDate": "23 JUL 1961",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.74",
+                      "nationality": "URS",
+                      "place": "3.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "598xs7qqyepsf4wxlbb4g",
+                        "name": "Marcel ARNOLD",
+                        "iaafId": 5323,
+                        "urlSlug": "switzerland/marcel-arnold-014343564",
+                        "birthDate": "17 JAN 1962",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.76",
+                      "nationality": "SUI",
+                      "place": "4.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "pnjwnijxckak401vt94noo",
+                        "name": "Devon MORRIS",
+                        "iaafId": 1952,
+                        "urlSlug": "jamaica/devon-morris-014350497",
+                        "birthDate": "22 JAN 1961",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.83",
+                      "nationality": "JAM",
+                      "place": "5.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "odw6rauulcth5c3n0eyz",
+                        "name": "Ismail MA\u010cEV",
+                        "iaafId": 1681,
+                        "urlSlug": "yugoslavia/ismail-macev-14351276",
+                        "birthDate": "03 JAN 1960",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "46.30",
+                      "nationality": "YUG",
+                      "place": "6.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "wxwk6rm49gig2u1p7yurc",
+                        "name": "Gerson DE SOUZA",
+                        "iaafId": 2719,
+                        "urlSlug": "brazil/gerson-de-souza-014352827",
+                        "birthDate": "02 JAN 1959",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "46.39",
+                      "nationality": "BRA",
+                      "place": "7.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "o5wjijzqeava9xwhjjd8",
+                        "name": "Yaya SEYBA",
+                        "iaafId": 7443,
+                        "urlSlug": "mali/yaya-seyba-014353378",
+                        "birthDate": "1957",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "DNS",
+                      "nationality": "MLI",
+                      "place": "8.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    }
+                  ],
+                  "startList": null,
+                  "wind": null,
+                  "__typename": "CalendarResultsRace"
+                },
+                {
+                  "date": "1987-08-30",
+                  "day": 2,
+                  "race": "Round 1 - Heat",
+                  "raceId": 11,
+                  "raceNumber": 4,
+                  "results": [
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "pbhrpgq311qtwd9woo0h1",
+                        "name": "Moses UGBISIE",
+                        "iaafId": 136541,
+                        "urlSlug": "nigeria/moses-ugbisie-014347742",
+                        "birthDate": "11 DEC 1964",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.55",
+                      "nationality": "NGR",
+                      "place": "1.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "lo9uxzuvk6vs7f1x8q22o",
+                        "name": "Thomas SCH\u00d6NLEBE",
+                        "iaafId": 4134,
+                        "urlSlug": "germany/thomas-schonlebe-014194143",
+                        "birthDate": "06 AUG 1965",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.85",
+                      "nationality": "GDR",
+                      "place": "2.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "m6c7qg14guny6fummdy8g",
+                        "name": "Antonio MCKAY",
+                        "iaafId": 1823,
+                        "urlSlug": "united-states/antonio-mckay-014349478",
+                        "birthDate": "09 FEB 1964",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "46.30",
+                      "nationality": "USA",
+                      "place": "3.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "19lhe9oju0ngo8pat4uk8c",
+                        "name": "Roberto RIBAUD",
+                        "iaafId": 2404,
+                        "urlSlug": "italy/roberto-ribaud-014357598",
+                        "birthDate": "30 JUN 1961",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "46.37",
+                      "nationality": "ITA",
+                      "place": "4.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "b3ecun69m99wwtx9klej6",
+                        "name": "Yann QUENTREC",
+                        "iaafId": 138663,
+                        "urlSlug": "france/yann-quentrec-014348270",
+                        "birthDate": "17 FEB 1962",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "46.78",
+                      "nationality": "FRA",
+                      "place": "5.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "bf86p0gqtun079dk3q1ammd",
+                        "name": "Mark SENIOR",
+                        "iaafId": 138664,
+                        "urlSlug": "jamaica/mark-senior-014352461",
+                        "birthDate": "13 DEC 1963",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "47.30",
+                      "nationality": "JAM",
+                      "place": "6.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "i5xlu4jpftkgvhul5bl8oc",
+                        "name": "Adram M'KUMI",
+                        "iaafId": 138665,
+                        "urlSlug": "tanzania/adram-mkumi-014356101",
+                        "birthDate": "1963",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "47.39",
+                      "nationality": "TAN",
+                      "place": "7.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "u3myeqv956xyh2sdsy2v",
+                        "name": "Dawda JALLOW",
+                        "iaafId": 4129,
+                        "urlSlug": "the-gambia/dawda-jallow-014188262",
+                        "birthDate": "22 DEC 1969",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "48.40",
+                      "nationality": "GAM",
+                      "place": "8.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    }
+                  ],
+                  "startList": null,
+                  "wind": null,
+                  "__typename": "CalendarResultsRace"
+                },
+                {
+                  "date": "1987-08-30",
+                  "day": 2,
+                  "race": "Round 1 - Heat",
+                  "raceId": 11,
+                  "raceNumber": 5,
+                  "results": [
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "guiu8h4rm1d6e1ost78ze9",
+                        "name": "Derek REDMOND",
+                        "iaafId": 2375,
+                        "urlSlug": "great-britain-ni/derek-redmond-014351433",
+                        "birthDate": "03 SEP 1965",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.33",
+                      "nationality": "GBR",
+                      "place": "1.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "eaee5u4vp2op7el6d14d5l",
+                        "name": "Jens CARLOWITZ",
+                        "iaafId": 437,
+                        "urlSlug": "germany/jens-carlowitz-014191758",
+                        "birthDate": "08 AUG 1964",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.52",
+                      "nationality": "GDR",
+                      "place": "2.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "4b1w78lh46q8quxyd0ow7k",
+                        "name": "Roddie HALEY",
+                        "iaafId": 20817,
+                        "urlSlug": "united-states/roddie-haley-014347975",
+                        "birthDate": "06 DEC 1965",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.73",
+                      "nationality": "USA",
+                      "place": "3.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "oxs98c4387dioa4wh7l3mr",
+                        "name": "Tito SAWE",
+                        "iaafId": 138666,
+                        "urlSlug": "kenya/tito-sawe-014348550",
+                        "birthDate": "10 JUL 1960",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.93",
+                      "nationality": "KEN",
+                      "place": "4.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "elty35k70fhhvofrp3jtf",
+                        "name": "\u013dubo\u0161 BALO\u0160\u00c1K",
+                        "iaafId": 5376,
+                        "urlSlug": "czechoslovakia/lubos-balosak-14352197",
+                        "birthDate": "05 APR 1965",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "46.49",
+                      "nationality": "TCH",
+                      "place": "5.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "4zx3u5hsy6baq2qr515l4t",
+                        "name": "Antonio S\u00c1NCHEZ",
+                        "iaafId": 2530,
+                        "urlSlug": "spain/antonio-sanchez-014357656",
+                        "birthDate": "22 SEP 1963",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "46.54",
+                      "nationality": "ESP",
+                      "place": "6.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "ys8jclc8451deaqti4478",
+                        "name": "Tam\u00e1s MOLN\u00c1R",
+                        "iaafId": 1917,
+                        "urlSlug": "hungary/tamas-molnar-014350984",
+                        "birthDate": "23 JUL 1968",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "46.80",
+                      "nationality": "HUN",
+                      "place": "7.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "829hucdlwwd9l7aa73mnnp",
+                        "name": "Elieser WETTEBOSI",
+                        "iaafId": 7377,
+                        "urlSlug": "indonesia/elieser-wettebosi-014357998",
+                        "birthDate": "20 AUG 1964",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "47.32",
+                      "nationality": "INA",
+                      "place": "8.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    }
+                  ],
+                  "startList": null,
+                  "wind": null,
+                  "__typename": "CalendarResultsRace"
+                },
+                {
+                  "date": "1987-08-30",
+                  "day": 2,
+                  "race": "Round 1 - Heat",
+                  "raceId": 11,
+                  "raceNumber": 6,
+                  "results": [
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "vvhn8ry62lafue5xe8wy4h",
+                        "name": "Roberto HERN\u00c1NDEZ",
+                        "iaafId": 1148,
+                        "urlSlug": "cuba/roberto-hernandez-014357557",
+                        "birthDate": "06 MAR 1967",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.68",
+                      "nationality": "CUB",
+                      "place": "1.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "tdvwsm8701s6tcnytnbz",
+                        "name": "John ANZRAH",
+                        "iaafId": 136533,
+                        "urlSlug": "kenya/john-anzrah-014350995",
+                        "birthDate": "27 OCT 1954",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.91",
+                      "nationality": "KEN",
+                      "place": "2.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "wcpn3b2dt54ie6schc4h4",
+                        "name": "Bert CAMERON",
+                        "iaafId": 409,
+                        "urlSlug": "jamaica/bert-cameron-014343445",
+                        "birthDate": "16 NOV 1959",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "45.94",
+                      "nationality": "JAM",
+                      "place": "3.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "p5u8dsi9q8i4dfaf88llhw",
+                        "name": "Phil BROWN",
+                        "iaafId": 136626,
+                        "urlSlug": "great-britain-ni/phil-brown-014352167",
+                        "birthDate": "06 JAN 1962",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "46.08",
+                      "nationality": "GBR",
+                      "place": "4.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "l6puj6p9pydqx4mc8poya",
+                        "name": "Alemayehu GUDETA",
+                        "iaafId": 136465,
+                        "urlSlug": "ethiopia/alemayehu-gudeta-014384727",
+                        "birthDate": "1960",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "46.25",
+                      "nationality": "ETH",
+                      "place": "5.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "6u5uz99442em52c1v6tv1",
+                        "name": "Vladimir PROSIN",
+                        "iaafId": 4300,
+                        "urlSlug": "ussr/vladimir-prosin-014349017",
+                        "birthDate": "15 AUG 1959",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "46.26",
+                      "nationality": "URS",
+                      "place": "6.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "4db1h9fkmcbt08xgsljoq",
+                        "name": "Jesus MALAVE",
+                        "iaafId": 6422,
+                        "urlSlug": "venezuela/jesus-malave-014351128",
+                        "birthDate": "24 OCT 1965",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "47.10",
+                      "nationality": "VEN",
+                      "place": "7.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "asfa3ee6m1aaavu9k937i",
+                        "name": "Lenford O'GARRO",
+                        "iaafId": 136532,
+                        "urlSlug": "saint-vincent/lenford-ogarro-014384724",
+                        "birthDate": "01 JUN 1965",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "49.19",
+                      "nationality": "VIN",
+                      "place": "8.",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    }
+                  ],
+                  "startList": null,
+                  "wind": null,
+                  "__typename": "CalendarResultsRace"
+                }
+              ],
+              "__typename": "CalendarResultsEvent"
+            }
+          ],
+          "__typename": "CalendarResultsEventTitle"
+        },
+        {
+          "rankingCategory": "OW",
+          "eventTitle": "Combined Events",
+          "events": [
+            {
+              "event": "Men's 400 Metres",
+              "eventId": 10229631,
+              "gender": "M",
+              "isRelay": false,
+              "perResultWind": false,
+              "withWind": false,
+              "summary": [
+                {
+                  "competitor": {
+                    "teamMembers": null,
+                    "id": "14343751",
+                    "name": "Torsten VOSS",
+                    "iaafId": 5054,
+                    "urlSlug": "germany/torsten-voss-014343751",
+                    "birthDate": "24 MAR 1963",
+                    "__typename": "CalendarResultsCompetitor"
+                  },
+                  "mark": "47.96",
+                  "nationality": "GDR",
+                  "placeInRace": "1.",
+                  "placeInRound": "1.",
+                  "points": 911,
+                  "raceNumber": 0,
+                  "records": "",
+                  "wind": null,
+                  "__typename": "CalendarResultsSummary"
+                },
+                {
+                  "competitor": {
+                    "teamMembers": null,
+                    "id": "14343032",
+                    "name": "Siegfried WENTZ",
+                    "iaafId": 5064,
+                    "urlSlug": "fed-rep-german/siegfried-wentz-014343032",
+                    "birthDate": "07 MAR 1960",
+                    "__typename": "CalendarResultsCompetitor"
+                  },
+                  "mark": "48.48",
+                  "nationality": "FRG",
+                  "placeInRace": "2.",
+                  "placeInRound": "2.",
+                  "points": 886,
+                  "raceNumber": 0,
+                  "records": "",
+                  "wind": null,
+                  "__typename": "CalendarResultsSummary"
+                },
+                {
+                  "competitor": {
+                    "teamMembers": null,
+                    "id": "14345174",
+                    "name": "Pavel TARNAVETSKIY",
+                    "iaafId": 5008,
+                    "urlSlug": "ussr/pavel-tarnavetskiy-014345174",
+                    "birthDate": "22 FEB 1961",
+                    "__typename": "CalendarResultsCompetitor"
+                  },
+                  "mark": "49.22",
+                  "nationality": "URS",
+                  "placeInRace": "3.",
+                  "placeInRound": "3.",
+                  "points": 851,
+                  "raceNumber": 0,
+                  "records": "",
+                  "wind": null,
+                  "__typename": "CalendarResultsSummary"
+                },
+                {
+                  "competitor": {
+                    "teamMembers": null,
+                    "id": "14187089",
+                    "name": "Christian PLAZIAT",
+                    "iaafId": 4887,
+                    "urlSlug": "france/christian-plaziat-014187089",
+                    "birthDate": "28 OCT 1963",
+                    "__typename": "CalendarResultsCompetitor"
+                  },
+                  "mark": "49.63",
+                  "nationality": "FRA",
+                  "placeInRace": "4.",
+                  "placeInRound": "4.",
+                  "points": 832,
+                  "raceNumber": 0,
+                  "records": "",
+                  "wind": null,
+                  "__typename": "CalendarResultsSummary"
+                },
+                {
+                  "competitor": {
+                    "teamMembers": null,
+                    "id": "14358472",
+                    "name": "Christian SCHENK",
+                    "iaafId": 2566,
+                    "urlSlug": "germany/christian-schenk-014358472",
+                    "birthDate": "09 FEB 1965",
+                    "__typename": "CalendarResultsCompetitor"
+                  },
+                  "mark": "51.34",
+                  "nationality": "GDR",
+                  "placeInRace": "5.",
+                  "placeInRound": "5.",
+                  "points": 754,
+                  "raceNumber": 0,
+                  "records": "",
+                  "wind": null,
+                  "__typename": "CalendarResultsSummary"
+                },
+                {
+                  "competitor": {
+                    "teamMembers": null,
+                    "id": "14215823",
+                    "name": "Simon POELMAN",
+                    "iaafId": 4891,
+                    "urlSlug": "new-zealand/simon-poelman-014215823",
+                    "birthDate": "27 MAY 1963",
+                    "__typename": "CalendarResultsCompetitor"
+                  },
+                  "mark": "50.07",
+                  "nationality": "NZL",
+                  "placeInRace": "6.",
+                  "placeInRound": "6.",
+                  "points": 811,
+                  "raceNumber": 0,
+                  "records": "",
+                  "wind": null,
+                  "__typename": "CalendarResultsSummary"
+                },
+                {
+                  "competitor": {
+                    "teamMembers": null,
+                    "id": "14183356",
+                    "name": "Alain BLONDEL",
+                    "iaafId": 4381,
+                    "urlSlug": "france/alain-blondel-014183356",
+                    "birthDate": "07 DEC 1962",
+                    "__typename": "CalendarResultsCompetitor"
+                  },
+                  "mark": "47.91",
+                  "nationality": "FRA",
+                  "placeInRace": "7.",
+                  "placeInRound": "7.",
+                  "points": 913,
+                  "raceNumber": 0,
+                  "records": "",
+                  "wind": null,
+                  "__typename": "CalendarResultsSummary"
+                },
+                {
+                  "competitor": {
+                    "teamMembers": null,
+                    "id": "14352414",
+                    "name": "Aleksandr NEVSKIY",
+                    "iaafId": 20795,
+                    "urlSlug": "ussr/aleksandr-nevskiy-014352414",
+                    "birthDate": "21 FEB 1958",
+                    "__typename": "CalendarResultsCompetitor"
+                  },
+                  "mark": "50.01",
+                  "nationality": "URS",
+                  "placeInRace": "8.",
+                  "placeInRound": "8.",
+                  "points": 814,
+                  "raceNumber": 0,
+                  "records": "",
+                  "wind": null,
+                  "__typename": "CalendarResultsSummary"
+                },
+                {
+                  "competitor": {
+                    "teamMembers": null,
+                    "id": "14355218",
+                    "name": "Daley THOMPSON",
+                    "iaafId": 7575,
+                    "urlSlug": "great-britain-ni/daley-thompson-014355218",
+                    "birthDate": "30 JUL 1958",
+                    "__typename": "CalendarResultsCompetitor"
+                  },
+                  "mark": "48.61",
+                  "nationality": "GBR",
+                  "placeInRace": "9.",
+                  "placeInRound": "9.",
+                  "points": 880,
+                  "raceNumber": 0,
+                  "records": "",
+                  "wind": null,
+                  "__typename": "CalendarResultsSummary"
+                },
+                {
+                  "competitor": {
+                    "teamMembers": null,
+                    "id": "14186647",
+                    "name": "William MOTTI",
+                    "iaafId": 9203,
+                    "urlSlug": "france/william-motti-014186647",
+                    "birthDate": "25 JUL 1964",
+                    "__typename": "CalendarResultsCompetitor"
+                  },
+                  "mark": "50.88",
+                  "nationality": "FRA",
+                  "placeInRace": "10.",
+                  "placeInRound": "10.",
+                  "points": 774,
+                  "raceNumber": 0,
+                  "records": "",
+                  "wind": null,
+                  "__typename": "CalendarResultsSummary"
+                },
+                {
+                  "competitor": {
+                    "teamMembers": null,
+                    "id": "14225998",
+                    "name": "Beat G\u00c4HWILER",
+                    "iaafId": 7823,
+                    "urlSlug": "switzerland/beat-gahwiler-014225998",
+                    "birthDate": "26 JAN 1965",
+                    "__typename": "CalendarResultsCompetitor"
+                  },
+                  "mark": "49.54",
+                  "nationality": "SUI",
+                  "placeInRace": "11.",
+                  "placeInRound": "11.",
+                  "points": 836,
+                  "raceNumber": 0,
+                  "records": "",
+                  "wind": null,
+                  "__typename": "CalendarResultsSummary"
+                },
+                {
+                  "competitor": {
+                    "teamMembers": null,
+                    "id": "14356036",
+                    "name": "Gary KINDER",
+                    "iaafId": 4678,
+                    "urlSlug": "united-states/gary-kinder-014356036",
+                    "birthDate": "25 OCT 1962",
+                    "__typename": "CalendarResultsCompetitor"
+                  },
+                  "mark": "52.22",
+                  "nationality": "USA",
+                  "placeInRace": "12.",
+                  "placeInRound": "12.",
+                  "points": 715,
+                  "raceNumber": 0,
+                  "records": "",
+                  "wind": null,
+                  "__typename": "CalendarResultsSummary"
+                },
+                {
+                  "competitor": {
+                    "teamMembers": null,
+                    "id": "14246903",
+                    "name": "Rob MUZZIO",
+                    "iaafId": 4813,
+                    "urlSlug": "united-states/rob-muzzio-014246903",
+                    "birthDate": "25 JUN 1964",
+                    "__typename": "CalendarResultsCompetitor"
+                  },
+                  "mark": "50.69",
+                  "nationality": "USA",
+                  "placeInRace": "13.",
+                  "placeInRound": "13.",
+                  "points": 783,
+                  "raceNumber": 0,
+                  "records": "",
+                  "wind": null,
+                  "__typename": "CalendarResultsSummary"
+                },
+                {
+                  "competitor": {
+                    "teamMembers": null,
+                    "id": "14345199",
+                    "name": "Michael NEUGEBAUER",
+                    "iaafId": 138764,
+                    "urlSlug": "fed-rep-german/michael-neugebauer-014345199",
+                    "birthDate": "07 APR 1962",
+                    "__typename": "CalendarResultsCompetitor"
+                  },
+                  "mark": "51.85",
+                  "nationality": "FRG",
+                  "placeInRace": "14.",
+                  "placeInRound": "14.",
+                  "points": 731,
+                  "raceNumber": 0,
+                  "records": "",
+                  "wind": null,
+                  "__typename": "CalendarResultsSummary"
+                },
+                {
+                  "competitor": {
+                    "teamMembers": null,
+                    "id": "14352187",
+                    "name": "Mikael OLANDER",
+                    "iaafId": 138765,
+                    "urlSlug": "sweden/mikael-olander-014352187",
+                    "birthDate": "11 JUN 1963",
+                    "__typename": "CalendarResultsCompetitor"
+                  },
+                  "mark": "51.36",
+                  "nationality": "SWE",
+                  "placeInRace": "15.",
+                  "placeInRound": "15.",
+                  "points": 753,
+                  "raceNumber": 0,
+                  "records": "",
+                  "wind": null,
+                  "__typename": "CalendarResultsSummary"
+                },
+                {
+                  "competitor": {
+                    "teamMembers": null,
+                    "id": "14168150",
+                    "name": "V\u011broslav VALENTA",
+                    "iaafId": 5037,
+                    "urlSlug": "czechoslovakia/veroslav-valenta-14168150",
+                    "birthDate": "25 MAR 1965",
+                    "__typename": "CalendarResultsCompetitor"
+                  },
+                  "mark": "52.38",
+                  "nationality": "TCH",
+                  "placeInRace": "16.",
+                  "placeInRound": "16.",
+                  "points": 708,
+                  "raceNumber": 0,
+                  "records": "",
+                  "wind": null,
+                  "__typename": "CalendarResultsSummary"
+                },
+                {
+                  "competitor": {
+                    "teamMembers": null,
+                    "id": "14400493",
+                    "name": "Lars WARMING",
+                    "iaafId": 5062,
+                    "urlSlug": "denmark/lars-warming-014400493",
+                    "birthDate": "21 JAN 1963",
+                    "__typename": "CalendarResultsCompetitor"
+                  },
+                  "mark": "50.42",
+                  "nationality": "DEN",
+                  "placeInRace": "17.",
+                  "placeInRound": "17.",
+                  "points": 795,
+                  "raceNumber": 0,
+                  "records": "",
+                  "wind": null,
+                  "__typename": "CalendarResultsSummary"
+                },
+                {
+                  "competitor": {
+                    "teamMembers": null,
+                    "id": "14560229",
+                    "name": "Paul HEWLETT",
+                    "iaafId": 6008,
+                    "urlSlug": "british-virgin-islands/paul-hewlett-014560229",
+                    "birthDate": "1961",
+                    "__typename": "CalendarResultsCompetitor"
+                  },
+                  "mark": "52.14",
+                  "nationality": "IVB",
+                  "placeInRace": "18.",
+                  "placeInRound": "18.",
+                  "points": 719,
+                  "raceNumber": 0,
+                  "records": "",
+                  "wind": null,
+                  "__typename": "CalendarResultsSummary"
+                },
+                {
+                  "competitor": {
+                    "teamMembers": null,
+                    "id": "14233314",
+                    "name": "Tim BRIGHT",
+                    "iaafId": 343,
+                    "urlSlug": "united-states/tim-bright-014233314",
+                    "birthDate": "28 JUL 1960",
+                    "__typename": "CalendarResultsCompetitor"
+                  },
+                  "mark": "51.68",
+                  "nationality": "USA",
+                  "placeInRace": "19.",
+                  "placeInRound": "19.",
+                  "points": 739,
+                  "raceNumber": 0,
+                  "records": "",
+                  "wind": null,
+                  "__typename": "CalendarResultsSummary"
+                },
+                {
+                  "competitor": {
+                    "teamMembers": null,
+                    "id": "14352255",
+                    "name": "Dave STEEN",
+                    "iaafId": 138766,
+                    "urlSlug": "canada/dave-steen-014352255",
+                    "birthDate": "14 NOV 1959",
+                    "__typename": "CalendarResultsCompetitor"
+                  },
+                  "mark": "49.59",
+                  "nationality": "CAN",
+                  "placeInRace": "20.",
+                  "placeInRound": "20.",
+                  "points": 834,
+                  "raceNumber": 0,
+                  "records": "",
+                  "wind": null,
+                  "__typename": "CalendarResultsSummary"
+                },
+                {
+                  "competitor": {
+                    "teamMembers": null,
+                    "id": "14345582",
+                    "name": "Fu-An LEE",
+                    "iaafId": 4727,
+                    "urlSlug": "chinese-taipei/fu-an-lee-014345582",
+                    "birthDate": "04 JUN 1964",
+                    "__typename": "CalendarResultsCompetitor"
+                  },
+                  "mark": "51.06",
+                  "nationality": "TPE",
+                  "placeInRace": "21.",
+                  "placeInRound": "21.",
+                  "points": 766,
+                  "raceNumber": 0,
+                  "records": "",
+                  "wind": null,
+                  "__typename": "CalendarResultsSummary"
+                },
+                {
+                  "competitor": {
+                    "teamMembers": null,
+                    "id": "14357102",
+                    "name": "Valter K\u00dcLVET",
+                    "iaafId": 7534,
+                    "urlSlug": "estonia/valter-kulvet-014357102",
+                    "birthDate": "19 FEB 1964",
+                    "__typename": "CalendarResultsCompetitor"
+                  },
+                  "mark": "49.58",
+                  "nationality": "URS",
+                  "placeInRace": "22.",
+                  "placeInRound": "22.",
+                  "points": 834,
+                  "raceNumber": 0,
+                  "records": "",
+                  "wind": null,
+                  "__typename": "CalendarResultsSummary"
+                },
+                {
+                  "competitor": {
+                    "teamMembers": null,
+                    "id": "14176017",
+                    "name": "Pedro Ferreira DA SILVA FILHO",
+                    "iaafId": 4459,
+                    "urlSlug": "brazil/pedro-ferreira-da-silva-filho-014176017",
+                    "birthDate": "24 OCT 1966",
+                    "__typename": "CalendarResultsCompetitor"
+                  },
+                  "mark": "57.45",
+                  "nationality": "BRA",
+                  "placeInRace": "23.",
+                  "placeInRound": "23.",
+                  "points": 504,
+                  "raceNumber": 0,
+                  "records": "",
+                  "wind": null,
+                  "__typename": "CalendarResultsSummary"
+                },
+                {
+                  "competitor": {
+                    "teamMembers": null,
+                    "id": "14182038",
+                    "name": "Petri KESKITALO",
+                    "iaafId": 4675,
+                    "urlSlug": "finland/petri-keskitalo-014182038",
+                    "birthDate": "10 MAR 1967",
+                    "__typename": "CalendarResultsCompetitor"
+                  },
+                  "mark": "DNS",
+                  "nationality": "FIN",
+                  "placeInRace": "",
+                  "placeInRound": "",
+                  "points": null,
+                  "raceNumber": 0,
+                  "records": "",
+                  "wind": null,
+                  "__typename": "CalendarResultsSummary"
+                },
+                {
+                  "competitor": {
+                    "teamMembers": null,
+                    "id": "14560230",
+                    "name": "Marco ROSSI",
+                    "iaafId": 6973,
+                    "urlSlug": "italy/marco-rossi-014560230",
+                    "birthDate": "07 JUL 1963",
+                    "__typename": "CalendarResultsCompetitor"
+                  },
+                  "mark": "DNS",
+                  "nationality": "ITA",
+                  "placeInRace": "",
+                  "placeInRound": "",
+                  "points": null,
+                  "raceNumber": 0,
+                  "records": "",
+                  "wind": null,
+                  "__typename": "CalendarResultsSummary"
+                },
+                {
+                  "competitor": {
+                    "teamMembers": null,
+                    "id": "14355805",
+                    "name": "J\u00fcrgen HINGSEN",
+                    "iaafId": 20792,
+                    "urlSlug": "fed-rep-german/jurgen-hingsen-014355805",
+                    "birthDate": "15 APR 1958",
+                    "__typename": "CalendarResultsCompetitor"
+                  },
+                  "mark": "DNS",
+                  "nationality": "FRG",
+                  "placeInRace": "",
+                  "placeInRound": "",
+                  "points": null,
+                  "raceNumber": 0,
+                  "records": "",
+                  "wind": null,
+                  "__typename": "CalendarResultsSummary"
+                }
+              ],
+              "races": [
+                {
+                  "date": "1987-09-03",
+                  "day": 6,
+                  "race": "Combined - Group",
+                  "raceId": 14,
+                  "raceNumber": 0,
+                  "results": [
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "14343751",
+                        "name": "Torsten VOSS",
+                        "iaafId": 5054,
+                        "urlSlug": "germany/torsten-voss-014343751",
+                        "birthDate": "24 MAR 1963",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "47.96",
+                      "nationality": "GDR",
+                      "place": "1.",
+                      "points": 911,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "14343032",
+                        "name": "Siegfried WENTZ",
+                        "iaafId": 5064,
+                        "urlSlug": "fed-rep-german/siegfried-wentz-014343032",
+                        "birthDate": "07 MAR 1960",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "48.48",
+                      "nationality": "FRG",
+                      "place": "2.",
+                      "points": 886,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "14345174",
+                        "name": "Pavel TARNAVETSKIY",
+                        "iaafId": 5008,
+                        "urlSlug": "ussr/pavel-tarnavetskiy-014345174",
+                        "birthDate": "22 FEB 1961",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "49.22",
+                      "nationality": "URS",
+                      "place": "3.",
+                      "points": 851,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "14187089",
+                        "name": "Christian PLAZIAT",
+                        "iaafId": 4887,
+                        "urlSlug": "france/christian-plaziat-014187089",
+                        "birthDate": "28 OCT 1963",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "49.63",
+                      "nationality": "FRA",
+                      "place": "4.",
+                      "points": 832,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "14358472",
+                        "name": "Christian SCHENK",
+                        "iaafId": 2566,
+                        "urlSlug": "germany/christian-schenk-014358472",
+                        "birthDate": "09 FEB 1965",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "51.34",
+                      "nationality": "GDR",
+                      "place": "5.",
+                      "points": 754,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "14215823",
+                        "name": "Simon POELMAN",
+                        "iaafId": 4891,
+                        "urlSlug": "new-zealand/simon-poelman-014215823",
+                        "birthDate": "27 MAY 1963",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "50.07",
+                      "nationality": "NZL",
+                      "place": "6.",
+                      "points": 811,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "14183356",
+                        "name": "Alain BLONDEL",
+                        "iaafId": 4381,
+                        "urlSlug": "france/alain-blondel-014183356",
+                        "birthDate": "07 DEC 1962",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "47.91",
+                      "nationality": "FRA",
+                      "place": "7.",
+                      "points": 913,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "14352414",
+                        "name": "Aleksandr NEVSKIY",
+                        "iaafId": 20795,
+                        "urlSlug": "ussr/aleksandr-nevskiy-014352414",
+                        "birthDate": "21 FEB 1958",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "50.01",
+                      "nationality": "URS",
+                      "place": "8.",
+                      "points": 814,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "14355218",
+                        "name": "Daley THOMPSON",
+                        "iaafId": 7575,
+                        "urlSlug": "great-britain-ni/daley-thompson-014355218",
+                        "birthDate": "30 JUL 1958",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "48.61",
+                      "nationality": "GBR",
+                      "place": "9.",
+                      "points": 880,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "14186647",
+                        "name": "William MOTTI",
+                        "iaafId": 9203,
+                        "urlSlug": "france/william-motti-014186647",
+                        "birthDate": "25 JUL 1964",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "50.88",
+                      "nationality": "FRA",
+                      "place": "10.",
+                      "points": 774,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "14225998",
+                        "name": "Beat G\u00c4HWILER",
+                        "iaafId": 7823,
+                        "urlSlug": "switzerland/beat-gahwiler-014225998",
+                        "birthDate": "26 JAN 1965",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "49.54",
+                      "nationality": "SUI",
+                      "place": "11.",
+                      "points": 836,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "14356036",
+                        "name": "Gary KINDER",
+                        "iaafId": 4678,
+                        "urlSlug": "united-states/gary-kinder-014356036",
+                        "birthDate": "25 OCT 1962",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "52.22",
+                      "nationality": "USA",
+                      "place": "12.",
+                      "points": 715,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "14246903",
+                        "name": "Rob MUZZIO",
+                        "iaafId": 4813,
+                        "urlSlug": "united-states/rob-muzzio-014246903",
+                        "birthDate": "25 JUN 1964",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "50.69",
+                      "nationality": "USA",
+                      "place": "13.",
+                      "points": 783,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "14345199",
+                        "name": "Michael NEUGEBAUER",
+                        "iaafId": 138764,
+                        "urlSlug": "fed-rep-german/michael-neugebauer-014345199",
+                        "birthDate": "07 APR 1962",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "51.85",
+                      "nationality": "FRG",
+                      "place": "14.",
+                      "points": 731,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "14352187",
+                        "name": "Mikael OLANDER",
+                        "iaafId": 138765,
+                        "urlSlug": "sweden/mikael-olander-014352187",
+                        "birthDate": "11 JUN 1963",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "51.36",
+                      "nationality": "SWE",
+                      "place": "15.",
+                      "points": 753,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "14168150",
+                        "name": "V\u011broslav VALENTA",
+                        "iaafId": 5037,
+                        "urlSlug": "czechoslovakia/veroslav-valenta-14168150",
+                        "birthDate": "25 MAR 1965",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "52.38",
+                      "nationality": "TCH",
+                      "place": "16.",
+                      "points": 708,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "14400493",
+                        "name": "Lars WARMING",
+                        "iaafId": 5062,
+                        "urlSlug": "denmark/lars-warming-014400493",
+                        "birthDate": "21 JAN 1963",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "50.42",
+                      "nationality": "DEN",
+                      "place": "17.",
+                      "points": 795,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "14560229",
+                        "name": "Paul HEWLETT",
+                        "iaafId": 6008,
+                        "urlSlug": "british-virgin-islands/paul-hewlett-014560229",
+                        "birthDate": "1961",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "52.14",
+                      "nationality": "IVB",
+                      "place": "18.",
+                      "points": 719,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "14233314",
+                        "name": "Tim BRIGHT",
+                        "iaafId": 343,
+                        "urlSlug": "united-states/tim-bright-014233314",
+                        "birthDate": "28 JUL 1960",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "51.68",
+                      "nationality": "USA",
+                      "place": "19.",
+                      "points": 739,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "14352255",
+                        "name": "Dave STEEN",
+                        "iaafId": 138766,
+                        "urlSlug": "canada/dave-steen-014352255",
+                        "birthDate": "14 NOV 1959",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "49.59",
+                      "nationality": "CAN",
+                      "place": "20.",
+                      "points": 834,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "14345582",
+                        "name": "Fu-An LEE",
+                        "iaafId": 4727,
+                        "urlSlug": "chinese-taipei/fu-an-lee-014345582",
+                        "birthDate": "04 JUN 1964",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "51.06",
+                      "nationality": "TPE",
+                      "place": "21.",
+                      "points": 766,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "14357102",
+                        "name": "Valter K\u00dcLVET",
+                        "iaafId": 7534,
+                        "urlSlug": "estonia/valter-kulvet-014357102",
+                        "birthDate": "19 FEB 1964",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "49.58",
+                      "nationality": "URS",
+                      "place": "22.",
+                      "points": 834,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "14176017",
+                        "name": "Pedro Ferreira DA SILVA FILHO",
+                        "iaafId": 4459,
+                        "urlSlug": "brazil/pedro-ferreira-da-silva-filho-014176017",
+                        "birthDate": "24 OCT 1966",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "57.45",
+                      "nationality": "BRA",
+                      "place": "23.",
+                      "points": 504,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "14182038",
+                        "name": "Petri KESKITALO",
+                        "iaafId": 4675,
+                        "urlSlug": "finland/petri-keskitalo-014182038",
+                        "birthDate": "10 MAR 1967",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "DNS",
+                      "nationality": "FIN",
+                      "place": "",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "14560230",
+                        "name": "Marco ROSSI",
+                        "iaafId": 6973,
+                        "urlSlug": "italy/marco-rossi-014560230",
+                        "birthDate": "07 JUL 1963",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "DNS",
+                      "nationality": "ITA",
+                      "place": "",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    },
+                    {
+                      "competitor": {
+                        "teamMembers": null,
+                        "id": "14355805",
+                        "name": "J\u00fcrgen HINGSEN",
+                        "iaafId": 20792,
+                        "urlSlug": "fed-rep-german/jurgen-hingsen-014355805",
+                        "birthDate": "15 APR 1958",
+                        "hasProfile": true,
+                        "__typename": "CalendarResultsCompetitor"
+                      },
+                      "mark": "DNS",
+                      "nationality": "FRG",
+                      "place": "",
+                      "points": null,
+                      "qualified": null,
+                      "records": "",
+                      "wind": null,
+                      "remark": null,
+                      "details": null,
+                      "__typename": "CalendarResultsRaceResult"
+                    }
+                  ],
+                  "startList": null,
+                  "wind": null,
+                  "__typename": "CalendarResultsRace"
+                }
+              ],
+              "__typename": "CalendarResultsEvent"
+            }
+          ],
+          "__typename": "CalendarResultsEventTitle"
+        }
+      ],
+      "options": {
+        "days": [
+          {
+            "date": "29 AUG 1987",
+            "day": 1,
+            "__typename": "CalendarResultsOptionsDay"
+          },
+          {
+            "date": "30 AUG 1987",
+            "day": 2,
+            "__typename": "CalendarResultsOptionsDay"
+          },
+          {
+            "date": "31 AUG 1987",
+            "day": 3,
+            "__typename": "CalendarResultsOptionsDay"
+          },
+          {
+            "date": "01 SEP 1987",
+            "day": 4,
+            "__typename": "CalendarResultsOptionsDay"
+          },
+          {
+            "date": "03 SEP 1987",
+            "day": 6,
+            "__typename": "CalendarResultsOptionsDay"
+          },
+          {
+            "date": "04 SEP 1987",
+            "day": 7,
+            "__typename": "CalendarResultsOptionsDay"
+          },
+          {
+            "date": "05 SEP 1987",
+            "day": 8,
+            "__typename": "CalendarResultsOptionsDay"
+          },
+          {
+            "date": "06 SEP 1987",
+            "day": 9,
+            "__typename": "CalendarResultsOptionsDay"
+          }
+        ],
+        "events": [
+          {
+            "gender": "W",
+            "id": 10229684,
+            "name": "Women's 60 Metres",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "W",
+            "id": 10229509,
+            "name": "Women's 100 Metres",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "W",
+            "id": 10229510,
+            "name": "Women's 200 Metres",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "W",
+            "id": 10229515,
+            "name": "Women's 300 Metres",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "W",
+            "id": 10229511,
+            "name": "Women's 400 Metres",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "W",
+            "id": 10229602,
+            "name": "Women's 600 Metres",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "W",
+            "id": 10229512,
+            "name": "Women's 800 Metres",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "W",
+            "id": 10229513,
+            "name": "Women's 1500 Metres",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "W",
+            "id": 10229519,
+            "name": "Women's 3000 Metres",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "W",
+            "id": 10229514,
+            "name": "Women's 5000 Metres",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "W",
+            "id": 10229521,
+            "name": "Women's 10,000 Metres",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "W",
+            "id": 10229522,
+            "name": "Women's 100 Metres Hurdles",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "W",
+            "id": 10229523,
+            "name": "Women's 400 Metres Hurdles",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "W",
+            "id": 10229526,
+            "name": "Women's High Jump",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "W",
+            "id": 10229528,
+            "name": "Women's Long Jump",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "W",
+            "id": 10229530,
+            "name": "Women's Shot Put",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "W",
+            "id": 10229531,
+            "name": "Women's Discus Throw",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "W",
+            "id": 10229596,
+            "name": "Women's Javelin Throw (old)",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "W",
+            "id": 10229534,
+            "name": "Women's Marathon",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "W",
+            "id": 10229547,
+            "name": "Women's 10 Kilometres Race Walk",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "W",
+            "id": 10229536,
+            "name": "Women's Heptathlon",
+            "combined": true,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "W",
+            "id": 204594,
+            "name": "Women's 4x100 Metres Relay",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "W",
+            "id": 204596,
+            "name": "Women's 4x400 Metres Relay",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "M",
+            "id": 10229683,
+            "name": "Men's 60 Metres",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "M",
+            "id": 10229630,
+            "name": "Men's 100 Metres",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "M",
+            "id": 10229605,
+            "name": "Men's 200 Metres",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "M",
+            "id": 10229500,
+            "name": "Men's 300 Metres",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "M",
+            "id": 10229631,
+            "name": "Men's 400 Metres",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "M",
+            "id": 10229501,
+            "name": "Men's 800 Metres",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "M",
+            "id": 10229502,
+            "name": "Men's 1500 Metres",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "M",
+            "id": 10229609,
+            "name": "Men's 5000 Metres",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "M",
+            "id": 10229610,
+            "name": "Men's 10,000 Metres",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "M",
+            "id": 10229611,
+            "name": "Men's 110 Metres Hurdles",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "M",
+            "id": 10229612,
+            "name": "Men's 400 Metres Hurdles",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "M",
+            "id": 10229613,
+            "name": "Men's 2000 Metres Steeplechase",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "M",
+            "id": 10229614,
+            "name": "Men's 3000 Metres Steeplechase",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "M",
+            "id": 10229615,
+            "name": "Men's High Jump",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "M",
+            "id": 10229616,
+            "name": "Men's Pole Vault",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "M",
+            "id": 10229617,
+            "name": "Men's Long Jump",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "M",
+            "id": 10229618,
+            "name": "Men's Triple Jump",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "M",
+            "id": 10229619,
+            "name": "Men's Shot Put",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "M",
+            "id": 10229620,
+            "name": "Men's Discus Throw",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "M",
+            "id": 10229621,
+            "name": "Men's Hammer Throw",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "M",
+            "id": 10229636,
+            "name": "Men's Javelin Throw",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "M",
+            "id": 10229634,
+            "name": "Men's Marathon",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "M",
+            "id": 10229508,
+            "name": "Men's 20 Kilometres Race Walk",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "M",
+            "id": 10229628,
+            "name": "Men's 50 Kilometres Race Walk",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "M",
+            "id": 10229629,
+            "name": "Men's Decathlon",
+            "combined": true,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "M",
+            "id": 204593,
+            "name": "Men's 4x100 Metres Relay",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          },
+          {
+            "gender": "M",
+            "id": 204595,
+            "name": "Men's 4x400 Metres Relay",
+            "combined": null,
+            "__typename": "CalendarResultsOptionEvent"
+          }
+        ],
+        "__typename": "CalendarResultsOptions"
+      },
+      "parameters": {
+        "competitionId": 6986221,
+        "day": null,
+        "eventId": 10229631,
+        "__typename": "CalendarResultsParameters"
+      },
+      "__typename": "CalendarCompetitionResults"
+    }
+  }
+}
